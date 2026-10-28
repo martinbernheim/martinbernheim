@@ -1,4 +1,4 @@
-<h1 align="center">Martín Bernheim</h1>
+<h1 align="center">Martin Bernheim</h1>
 <p align="center"><b>Full Stack Software Engineer</b><br/>TypeScript · Next.js · Go</p>
 <p align="center">Montevideo, Uruguay · <a href="https://www.linkedin.com/in/martin-b-782307137/">LinkedIn</a></p>
 
