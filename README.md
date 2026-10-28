@@ -1,22 +1,33 @@
-# Hi, I'm Martín 👋
+<h1 align="center">Martín Bernheim</h1>
+<p align="center"><b>Full Stack Software Engineer</b><br/>TypeScript · Next.js · Go</p>
+<p align="center">Montevideo, Uruguay · <a href="https://www.linkedin.com/in/martin-b-782307137/">LinkedIn</a></p>
 
-Full Stack Software Engineer based in Montevideo, Uruguay. I build and ship web products with **TypeScript, Next.js and Go**.
+---
 
-## What I do
+I build and ship web products end to end. I lead and develop **Buscars**, a B2B automotive marketplace in production, and I own features from product definition to deployment. My background in project and product management means I work comfortably between business and engineering.
 
-- Led and now develop **Buscars**, a B2B automotive marketplace in production (50+ dealerships, ~2,700 active listings), including partner integrations (Multiaviso, Santander, Mi Auto).
-- Go backend, Next.js frontend, APIs and cloud infrastructure.
-- I use AI-assisted development daily (Claude Code) and test with Cypress.
+## Selected work
 
-## Tech
+| Project | What it is | Stack |
+|---|---|---|
+| **Buscars** | B2B automotive marketplace in production: 50+ dealerships, ~2,700 active listings, ~7,500 weekly unique visits. Partner integrations with Multiaviso, Santander and Mi Auto. | Go · Next.js · PocketBase · OpenAI API |
+| **Bank reconciliation app** | Bank reconciliation application, built end to end from architecture to deployment. | TypeScript · Angular · NestJS · Firebase |
+| **[usadosseleccionados.com.uy](https://www.usadosseleccionados.com.uy)** | Used vehicle website. | Next.js · Strapi · Cloudflare R2 |
 
-TypeScript · JavaScript · Go · Next.js (React) · Angular · NestJS · PostgreSQL · PocketBase · Firestore · AWS · Cloudflare R2 · Cypress
+## Tech stack
 
-## Currently
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,go,nextjs,react,angular,nestjs,postgres,firebase,aws,cloudflare,cypress" alt="TypeScript, JavaScript, Go, Next.js, React, Angular, NestJS, PostgreSQL, Firebase, AWS, Cloudflare, Cypress" />
+</p>
 
-- Building a bank reconciliation application end to end (Angular, NestJS, Firebase).
-- Open to remote opportunities.
+- **Languages:** TypeScript, JavaScript, Go
+- **Frontend:** Next.js (React), Angular
+- **Backend:** Go, NestJS, Strapi, APIs and third-party integrations
+- **Data:** PostgreSQL, PocketBase, Firestore
+- **Cloud:** AWS (EC2, S3), Cloudflare R2, Hetzner Cloud
+- **Testing:** Cypress
+- **AI-assisted development:** Claude Code
 
-## Contact
+## Connect
 
 [LinkedIn](https://www.linkedin.com/in/martin-b-782307137/)
